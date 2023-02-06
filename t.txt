@@ -14,4 +14,5 @@ credential.https://dev.azure.com.usehttppath=true
 init.defaultbranch=master
 user.email=joao.ribeiro@ottimizza.com.br
 user.name=JoaoWR10
-filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.clean=git-lfs clean -- %fl~,o´jçlulb
+phHji
